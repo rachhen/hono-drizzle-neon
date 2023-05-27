@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1685094702053,
+      "tag": "0000_omniscient_living_lightning",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1685094734422,
+      "tag": "0001_normal_namorita",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1685094753583,
+      "tag": "0002_black_stingray",
+      "breakpoints": false
+    }
+  ]
+}
